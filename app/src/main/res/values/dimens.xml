@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margin">8dp</dimen>
+    <dimen name="card_margin">4dp</dimen>
+    <dimen name="side_nav">300dp</dimen>
+</resources>

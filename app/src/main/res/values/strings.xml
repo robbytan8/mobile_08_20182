@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mobile_07_20182</string>
+    <string name="response_error">Error on Response</string>
+    <string name="card_option" translatable="false">&#8942;</string>
+    <string name="mn_loc">View Location</string>
+    <string name="coordinate">Geo Coordinate</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="temp_detail">Temperature Details</string>
+    <string name="temperature">Temperature</string>
+    <string name="pressure">Pressure</string>
+    <string name="humid">Humidity</string>
+    <string name="min_temp">Minimum Temperature</string>
+    <string name="max_temp">Maximum Temperature</string>
+    <string name="search_hint">Search</string>
+</resources>
